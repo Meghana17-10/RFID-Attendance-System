@@ -35,7 +35,7 @@ It was developed as part of a college hackathon under **Keshav Memorial College 
 
 
 
-## 🧪 How It Works
+## How It Works
 1. RFID tag is scanned  
 2. Arduino sends UID to serial port  
 3. Python script maps UID to student and logs attendance if not marked already  
